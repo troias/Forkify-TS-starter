@@ -1,5 +1,6 @@
 .recipe {
   background-color: $color-grey-light-1;
+  
 
   ///////////
   // FIGURE
@@ -8,6 +9,7 @@
     position: relative;
     // transform: scale(1.04) translateY(-1px);
     transform-origin: top;
+    width: 100%;
 
     &::before {
       content: '';
@@ -177,3 +179,5 @@
     font-weight: 700;
   }
 }
+
+

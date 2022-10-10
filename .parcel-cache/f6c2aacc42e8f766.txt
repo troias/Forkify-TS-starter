@@ -2,12 +2,12 @@
 104/home/troias/udemy/complete-javascript-course/18-forkify/starter/forkify-architecture-recipe-loading.png1664436182234466700 0
 78/home/troias/udemy/complete-javascript-course/18-forkify/starter/tsconfig.json1664939685182916200 0
 87/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.e37f48ea.js1664933834882916200 0
-80/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.html1664960600470753100 0
-92/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css.map1664960600470753100 0
+80/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.html1665393175706844600 0
+92/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css.map1665393258366844600 0
 87/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.62406edb.js1664438889904466700 0
-91/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.62574b7f.js.map1664960987590753100 0
+91/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.62574b7f.js.map1665393669286844600 0
 93/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/starter.3464ddca.js.map1664437802184466700 0
-69/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist1664960987590753100 1
+69/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist1665393669286844600 1
 77/home/troias/udemy/complete-javascript-course/18-forkify/starter/package.json1664933917852916200 0
 75/home/troias/udemy/complete-javascript-course/18-forkify/starter/.gitignore1664934085142916200 0
 93/home/troias/udemy/complete-javascript-course/18-forkify/starter/forkify-flowchart-part-1.png1664436182244466700 0
@@ -605,7 +605,7 @@
 100/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/mdn-data/l10n/css.json1664437622774466700 0
 94/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/mdn-data/LICENSE1664437622224466700 0
 86/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/mdn-data1664437623274466700 1
-87/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.62574b7f.js1664960987590753100 0
+87/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.62574b7f.js1665393669286844600 0
 103/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/weak-lru-cache/index.d.ts1664437622504466700 0
 102/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/weak-lru-cache/README.md1664437622464466700 0
 107/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/weak-lru-cache/LRFUExpirer.js1664437622344466700 0
@@ -819,7 +819,7 @@
 109/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/regions/TJ.js1664437626004466700 0
 101/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/bin/tsserver1664933847162916200 0
 96/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/bin/tsc1664933847162916200 0
-88/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css1664960600470753100 0
+88/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css1665393258366844600 0
 92/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/bin1664933847162916200 1
 100/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/SECURITY.md1664933847822916200 0
 122/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/loc/lcl/PTB/TypeScriptDebugEngine1664933847802916200 1
@@ -958,7 +958,7 @@
 115/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/lib.es2015.symbol.d.ts1664933847832916200 0
 116/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/lib.es2021.weakref.d.ts1664933847852916200 0
 108/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/typescript.d.ts1664933847882916200 0
-86/home/troias/udemy/complete-javascript-course/18-forkify/starter/src/sass/_recipe.scss1664436182314466700 0
+86/home/troias/udemy/complete-javascript-course/18-forkify/starter/src/sass/_recipe.scss1665393258206844600 0
 108/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/lib.es2021.d.ts1664933847852916200 0
 108/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/lib.es2020.d.ts1664933847842916200 0
 125/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts1664933847852916200 0
@@ -2193,7 +2193,7 @@
 159/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/foo.js1664437623354466700 0
 133/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/lmdb.h1664437624134466700 0
 119/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/lib/_wrap_async_generator.js1664437623464466700 0
-90/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/favicon.8b2f57bf.png1664960600470753100 0
+90/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/favicon.8b2f57bf.png1665392027996844600 0
 131/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/features/css-overscroll-behavior.js1664437624324466700 0
 114/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/lib/_define_property.js1664437623174466700 0
 116/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/lib/_non_iterable_rest.js1664437623304466700 0
@@ -2641,7 +2641,7 @@
 115/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/lib/_set_prototype_of.js1664437623344466700 0
 101/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/parse-json/package.json1664437622294466700 0
 116/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/transformer-babel/src/utils.js1664437623184466700 0
-87/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/logo.726d37a8.png1664960600470753100 0
+87/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/logo.726d37a8.png1665392027996844600 0
 128/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/transformer-babel/lib/remapAstLocations.js1664437623144466700 0
 101/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/fs/package.json1664437623724466700 0
 162/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-glob/package.json1664437624224466700 0
@@ -3420,7 +3420,7 @@
 109/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/workers/src/cpuCount.js1664437622744466700 0
 129/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_dump.c1664437623394466700 0
 104/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/workers/src/bus.js1664437622374466700 0
-88/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/icons.21bad73c.svg1664960600470753100 0
+88/home/troias/udemy/complete-javascript-course/18-forkify/starter/dist/icons.21bad73c.svg1665392028016844600 0
 99/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/posthtml/package.json1664437622424466700 0
 118/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/source-map/parcel_sourcemap_node1664437624414466700 1
 105/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/transformer-postcss1664437623014466700 1
@@ -3784,7 +3784,7 @@
 159/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/bar.js1664437622984466700 0
 104/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/utils/lib/index.js1664437624154466700 0
 104/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/hash/index.js.flow1664437622374466700 0
-75/home/troias/udemy/complete-javascript-course/18-forkify/starter/index.html1664958555660753100 0
+75/home/troias/udemy/complete-javascript-course/18-forkify/starter/index.html1665393175586844600 0
 100/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/plugin/LICENSE1664437622234466700 0
 165/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down1664437624334466700 1
 121/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/@parcel/reporter-cli/lib/CLIReporter.js.map1664437623914466700 0
@@ -4432,7 +4432,7 @@
 104/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/css-what/lib/es/parse.d.ts1664437623024466700 0
 116/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/typescript/lib/lib.es2020.promise.d.ts1664933847852916200 0
 96/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/css-what/readme.md1664437622984466700 0
-85/home/troias/udemy/complete-javascript-course/18-forkify/starter/src/js/controller.ts1664960987500753100 0
+85/home/troias/udemy/complete-javascript-course/18-forkify/starter/src/js/controller.ts1665393755096844600 0
 127/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/features/es6-string-includes.js1664437625354466700 0
 96/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/globals/index.d.ts1664437622434466700 0
 92/home/troias/udemy/complete-javascript-course/18-forkify/starter/node_modules/clone/clone.js1664437622444466700 0

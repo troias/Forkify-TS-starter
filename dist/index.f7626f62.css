@@ -533,6 +533,7 @@ body {
 .recipe__fig {
   height: 32rem;
   transform-origin: top;
+  width: 100%;
   position: relative;
 }
 
